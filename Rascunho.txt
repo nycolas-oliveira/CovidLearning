@@ -1,0 +1,34 @@
+PROBLEMA DE CLASSIFICAÇÃO BINÁRIA
+
+
+Video Referencia
+https://www.youtube.com/watch?v=JyGGMyR3x5I&t=1509s
+
+Dados de exames médicos
+https://repositoriodatasharingfapesp.uspdigital.usp.br/recent-submissions
+
+
+#FEBRE 
+#DOR NO CORPO
+#RESPIRATORIA
+#DOR DE CABEÇA
+#DIARREIA
+
+
+
+Treinamento
+paciente1 = [0 , 1 , 0 , 1, 0] SIM OU NAO 
+paciente1 = [0 , 1 , 0 , 1, 0] SIM OU NAO 
+paciente1 = [0 , 1 , 0 , 1, 0] SIM OU NAO 
+paciente1 = [0 , 1 , 0 , 1, 0] SIM OU NAO 
+paciente1 = [0 , 1 , 0 , 1, 0] SIM OU NAO 
+paciente1 = [0 , 1 , 0 , 1, 0] SIM OU NAO 
+paciente1 = [0 , 1 , 0 , 1, 0] SIM OU NAO 
+
+
+Teste
+paciente1 = [0 , 1 , 0 , 1, 0] SIM
+paciente1 = [0 , 1 , 0 , 1, 0] NÃO
+paciente1 = [0 , 1 , 0 , 1, 0] SIM 
+paciente1 = [0 , 1 , 0 , 1, 0] 
+paciente1 = [0 , 1 , 0 , 1, 0]
