@@ -4,31 +4,34 @@ PROBLEMA DE CLASSIFICAÇÃO BINÁRIA
 Video Referencia
 https://www.youtube.com/watch?v=JyGGMyR3x5I&t=1509s
 
-Dados de exames médicos
-https://repositoriodatasharingfapesp.uspdigital.usp.br/recent-submissions
+Site Artigo da base de Dados:
+https://www.nature.com/articles/s41746-020-00372-6
+
+Link da base de dados:
+https://github.com/nshomron/covidpred
 
 
-#FEBRE 
-#DOR NO CORPO
-#RESPIRATORIA
-#DOR DE CABEÇA
-#DIARREIA
-
+#[0]TOSSE (0 ou 1)
+#[1]FEBRE (0 ou 1)
+#[2]DOR DE GARGANTA (0 ou 1)
+#[3]DOR DE CABECA (0 ou 1)
+#[4]GENERO (0 ou 1)
+#[5]TESTE DE COVID (SIM ou NAO)
 
 
 Treinamento
 paciente1 = [0 , 1 , 0 , 1, 0] SIM OU NAO 
-paciente1 = [0 , 1 , 0 , 1, 0] SIM OU NAO 
-paciente1 = [0 , 1 , 0 , 1, 0] SIM OU NAO 
-paciente1 = [0 , 1 , 0 , 1, 0] SIM OU NAO 
-paciente1 = [0 , 1 , 0 , 1, 0] SIM OU NAO 
-paciente1 = [0 , 1 , 0 , 1, 0] SIM OU NAO 
-paciente1 = [0 , 1 , 0 , 1, 0] SIM OU NAO 
+paciente2 = [0 , 1 , 0 , 1, 0] SIM OU NAO 
+paciente3 = [0 , 1 , 0 , 1, 0] SIM OU NAO 
+paciente4 = [0 , 1 , 0 , 1, 0] SIM OU NAO 
+paciente5 = [0 , 1 , 0 , 1, 0] SIM OU NAO 
+paciente6 = [0 , 1 , 0 , 1, 0] SIM OU NAO 
+paciente7 = [0 , 1 , 0 , 1, 0] SIM OU NAO 
 
 
 Teste
-paciente1 = [0 , 1 , 0 , 1, 0] SIM
-paciente1 = [0 , 1 , 0 , 1, 0] NÃO
-paciente1 = [0 , 1 , 0 , 1, 0] SIM 
-paciente1 = [0 , 1 , 0 , 1, 0] 
-paciente1 = [0 , 1 , 0 , 1, 0]
+paciente799 = [0 , 1 , 0 , 1, 0] -> QUEM RESPONDE É O MODELO -> SIM
+paciente101 = [0 , 1 , 0 , 1, 0] -> QUEM RESPONDE É O MODELO -> NÃO
+paciente111 = [0 , 1 , 0 , 1, 0] -> QUEM RESPONDE É O MODELO -> SIM 
+paciente172 = [0 , 1 , 0 , 1, 0] 
+paciente183 = [0 , 1 , 0 , 1, 0]

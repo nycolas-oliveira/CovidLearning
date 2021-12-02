@@ -1,0 +1,84 @@
+*************************************************
+                INICIANDO INPUTS
+*************************************************
+=================================================
+                 QTD POSITIVOS
+=================================================
+220975
+=================================================
+                 QTD NEGATIVOS
+=================================================
+2480403
+=================================================
+                 TAMANHO TREINO
+=================================================
+20000
+=================================================
+                 TAMANHO TESTE                   
+=================================================
+50
+=================================================
+*************************************************
+                  INICIANDO ALEX
+*************************************************
+->Olá, Eu sou Alex!
+->Hum, recebi alguns casos!
+->Analizando...
+01  - SEM COVID
+02  - SEM COVID
+03  - SEM COVID
+04  - SEM COVID
+05  - SEM COVID
+06  - SEM COVID
+07  - SEM COVID
+08  - SEM COVID
+09  - SEM COVID
+10  - SEM COVID
+11  - SEM COVID
+12  - SEM COVID
+13  - SEM COVID
+14  - SEM COVID
+15  - SEM COVID
+16  - COVID
+17  - SEM COVID
+18  - SEM COVID
+19  - SEM COVID
+20  - SEM COVID
+21  - SEM COVID
+22  - SEM COVID
+23  - SEM COVID
+24  - SEM COVID
+25  - SEM COVID
+26  - SEM COVID
+27  - SEM COVID
+28  - SEM COVID
+29  - COVID
+30  - SEM COVID
+31  - SEM COVID
+32  - SEM COVID
+33  - SEM COVID
+34  - SEM COVID
+35  - SEM COVID
+36  - SEM COVID
+37  - SEM COVID
+38  - SEM COVID
+39  - SEM COVID
+40  - SEM COVID
+41  - SEM COVID
+42  - SEM COVID
+43  - SEM COVID
+44  - SEM COVID
+45  - SEM COVID
+46  - SEM COVID
+47  - SEM COVID
+48  - SEM COVID
+49  - SEM COVID
+50  - SEM COVID
+*************************************************
+               CALCULANDO ACERTOS
+*************************************************
+->Terminei as predições, com base nos dados de res-
+posta acertei  96.0 % dos casos.
+*************************************************
+                 ENCERRANDO ALEX
+*************************************************
